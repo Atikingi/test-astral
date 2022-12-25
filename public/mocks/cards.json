@@ -1,0 +1,56 @@
+[
+  {
+    "id": "99876d52",
+    "word": {
+      "en": "Something ",
+      "ru": "Что-нибудь"
+    },
+    "transcription": "ˈsʌmθɪŋ",
+    "example": "I have something"
+  },
+  {
+    "id": "e63e3397",
+    "word": {
+      "en": "All",
+      "ru": "Всё"
+    },
+    "transcription": "ɔːl",
+    "example": "I will buy all that we need"
+  },
+  {
+    "id": "3553c80a",
+    "word": {
+      "en": "Yes",
+      "ru": "Да"
+    },
+    "transcription": "jes",
+    "example": "Do you have money? Yes"
+  },
+  {
+    "id": "177473cd",
+    "word": {
+      "en": "No",
+      "ru": "Нет"
+    },
+    "transcription": "noʊ",
+    "example": "Do you have any time? NO, I do NOT have any time."
+  },
+  {
+    "id": "b8ea3612",
+    "word": {
+      "en": "His",
+      "ru": "Его"
+    },
+    "transcription": "hɪz",
+    "example": "I love his sense of humour, don’t you?"
+  },
+  {
+    "id": "f114ce8b",
+    "word": {
+      "en": "Fever",
+      "ru": "Жар"
+    },
+    "transcription": "ˈfiːvər",
+    "example": "She has a fever"
+  }
+]
